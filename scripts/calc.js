@@ -1,5 +1,9 @@
-function addition() {
-    return 42;
+/**
+ * @jest-environment jsdom
+ */
+
+function addition(num1, num2) {
+    return num1 + num2;
 }
 
 module.exports = addition;
