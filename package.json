@@ -1,0 +1,22 @@
+{
+  "name": "ci-pp4-wt-jest1",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GKopanidis/ci-pp4-wt-jest1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GKopanidis/ci-pp4-wt-jest1/issues"
+  },
+  "homepage": "https://github.com/GKopanidis/ci-pp4-wt-jest1#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
